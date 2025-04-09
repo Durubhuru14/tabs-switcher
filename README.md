@@ -40,7 +40,7 @@ This React application is a job experience tabs switcher that displays different
 
    ```bash
 
-   git clone https://github.com/your-username/tabs-switcher.git
+   git clone https://github.com/Durubhuru14/tabs-switcher.git
 
    ```
 
