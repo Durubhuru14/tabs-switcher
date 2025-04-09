@@ -1,6 +1,6 @@
 # Tabs Switcher Project
 
-![Project Screenshot](https://imgur.com/a/uEXBGvk)
+![Project Screenshot](https://i.imgur.com/bLumS18.png)
 
 ## Overview
 
